@@ -602,8 +602,8 @@ a {
     margin-top: 40px;
 }
 
-.footer .social-link {
-
+.footer .social-link + .social-link {
+    margin-left: 16px;
 }
 
 .footer .row-bottom {
